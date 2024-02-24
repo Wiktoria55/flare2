@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="home-topic"
+  FileSearchable="false"
+  MasterPage="file:///C:/Users/Asus/Desktop/MyCity/Content/Resources/TemplatePages/Home-Page.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TemplatePages/Home-Page.flmsp" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Images/Mask group.png" />
+    <Link
+      Url="Content/Resources/Line 10.png" />
+    <Link
+      Url="Content/Resources/Images/fluent-mdl2_website.png" />
+    <Link
+      Url="https://www.pless.pl/" />
+    <Link
+      Url="Content/Resources/Images/ph_video-bold.png" />
+    <Link
+      Url="https://www.youtube.com/watch" />
+    <Link
+      Url="Content/Resources/Images/ic_outline-map.png" />
+    <Link
+      Url="https://www.google.com/maps/@49.9808978,18.9446474,15.75z" />
+    <Link
+      Url="Content/Resources/Images/memory_castle.png" />
+    <Link
+      Url="https://wirtualnezwiedzanie.zamek-pszczyna.pl/" />
+    <Link
+      Url="Content/Resources/Images/uil_calender.png" />
+    <Link
+      Url="https://www.pless.pl/cgk" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TemplatePages/Home-Page.flmsp" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Resources/Images/Mask group.png" />
+    <Link
+      Url="Content/Resources/Line 10.png" />
+    <Link
+      Url="Content/Resources/Images/fluent-mdl2_website.png" />
+    <Link
+      Url="https://www.pless.pl/" />
+    <Link
+      Url="Content/Resources/Images/ph_video-bold.png" />
+    <Link
+      Url="https://www.youtube.com/watch?v=Dl42yJ9tHmU&amp;t=500s" />
+    <Link
+      Url="Content/Resources/Images/ic_outline-map.png" />
+    <Link
+      Url="https://www.google.com/maps/@49.9808978,18.9446474,15.75z?entry=ttu" />
+    <Link
+      Url="Content/Resources/Images/memory_castle.png" />
+    <Link
+      Url="https://wirtualnezwiedzanie.zamek-pszczyna.pl/" />
+    <Link
+      Url="Content/Resources/Images/uil_calender.png" />
+    <Link
+      Url="https://www.pless.pl/cgk" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+    <Condition
+      Tag="Default.NewTag" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

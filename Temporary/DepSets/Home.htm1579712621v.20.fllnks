@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="home-topic"
+  FileSearchable="false"
+  MasterPage="file:///C:/Users/Asus/Desktop/MyCity/Content/Resources/Images/Resources/TemplatePages/Home-Page.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Resources/TemplatePages/Home-Page.flmsp" />
+    <Link
+      Url="Content/Resources/Images/travel.png" />
+    <Link
+      Url="Content/Resources/Images/online-banking.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Resources/TemplatePages/Home-Page.flmsp" />
+    <Link
+      Url="Content/Resources/Images/travel.png" />
+    <Link
+      Url="Content/Resources/Images/online-banking.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

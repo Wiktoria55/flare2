@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/Asus/PDF/PDF.pdf"
+  BuildVersion="19.1.8677.41286">
+  <Files>
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/fluent-mdl2_website.png" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/2. stacja kolejowa.jpg" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/5 Pszczyński park.jpg" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/Minus.png" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/Logo.png" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/ph_video-bold.png" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/Plus.png" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/Logo.svg" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/1. Pszczyna_Town_Square.jpg" />
+    <Url
+      Source="Output/Asus/PDF/PDF.pdf" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Branding/Branding.css" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/1. mapa.gif" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/4. stajnie.jpg" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/ic_outline-map.png" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/3.zamek w pszczynie.JPG" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/8. żubry.JPG" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/10. wszystkich świętych.jpg" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/uil_calender.png" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/7. bądź wola twoja.jpg" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/9. Skansen.jpg" />
+    <Url
+      Source="Output/Asus/Temporary/PDF/PDF_7A2281F6/Resources/Images/memory_castle.png" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>
